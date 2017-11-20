@@ -1,0 +1,4 @@
+2017-06-06 13:04:13,177	INFO	main: Started with the command: /storage/software/python-2.6.9/bin/mapDamage -i /ebc_data/cls83/Johns/JDS3_02/J-59/bam/J-59.truncated.aln.chrM_filtered_sort_umr_dedup_readgroups.bam -r /ebc_data/cls83/indexes/chrM.fasta
+2017-06-06 13:04:13,221	DEBUG	main: BAM read in 6.632187 seconds
+2017-06-06 13:04:14,173	INFO	main: Successful run
+2017-06-06 13:04:14,173	DEBUG	main: Run completed in 7.585137 seconds

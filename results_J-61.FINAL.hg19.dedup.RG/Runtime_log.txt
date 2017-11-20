@@ -1,0 +1,4 @@
+2017-01-24 12:25:20,073	INFO	main: Started with the command: /storage/software/python-2.6.9/bin/mapDamage -i /ebc_data/cls83/Johns/J-61/bam/J-61.FINAL.hg19.dedup.RG.bam -r /ebc_data/cls83/indexes/hs.build37.1.fa
+2017-01-24 12:35:05,298	DEBUG	main: BAM read in 587.735298 seconds
+2017-01-24 12:35:06,604	INFO	main: Successful run
+2017-01-24 12:35:06,604	DEBUG	main: Run completed in 589.040980 seconds

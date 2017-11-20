@@ -1,0 +1,5 @@
+2017-06-06 13:03:30,217	INFO	main: Started with the command: /storage/software/python-2.6.9/bin/mapDamage -i /ebc_data/cls83/Johns/JDS3_01/J-54/bam/J-54.truncated.aln.chrM_filtered_sort_umr_dedup_readgroups.bam -r /ebc_data/cls83/indexes/chrM.fasta
+2017-06-06 13:03:30,286	DEBUG	main: BAM read in 1.565365 seconds
+2017-06-06 13:03:30,799	INFO	mapdamage.rscript: Performing Bayesian estimates
+2017-06-06 13:03:30,799	DEBUG	mapdamage.rscript: Call: Rscript /storage/software/python-2.6.9/lib/python2.6/site-packages/mapdamage/Rscripts/stats/runGeneral.R --args 30 10000 10 50000 0 0 1 1 0 0 1 12 results_J-54.truncated.aln.chrM_filtered_sort_umr_dedup_readgroups/ /storage/software/python-2.6.9/lib/python2.6/site-packages/mapdamage/Rscripts/stats/ results_J-54.truncated.aln.chrM_filtered_sort_umr_dedup_readgroups/Stats_out 0 0 0 results_J-54.truncated.aln.chrM_filtered_sort_umr_dedup_readgroups/acgt_ratio.csv 0 0
+2017-06-06 13:03:31,618	ERROR	mapdamage.rscript: The Bayesian statistics program failed to finish

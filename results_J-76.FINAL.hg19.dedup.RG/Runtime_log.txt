@@ -1,0 +1,5 @@
+2017-04-01 03:02:40,967	INFO	main: Started with the command: /storage/software/python-2.6.9/bin/mapDamage -i /ebc_data/cls83/Johns/JDS3_02/J-76/bam/J-76.FINAL.hg19.dedup.RG.bam -r /ebc_data/cls83/indexes/hs.build37.1.fa
+2017-04-01 03:50:55,336	DEBUG	main: BAM read in 2902.123000 seconds
+2017-04-01 03:51:39,247	INFO	mapdamage.rscript: Performing Bayesian estimates
+2017-04-01 03:51:39,248	DEBUG	mapdamage.rscript: Call: Rscript /storage/software/python-2.6.9/lib/python2.6/site-packages/mapdamage/Rscripts/stats/runGeneral.R --args 30 10000 10 50000 0 0 1 1 0 0 1 12 results_J-76.FINAL.hg19.dedup.RG/ /storage/software/python-2.6.9/lib/python2.6/site-packages/mapdamage/Rscripts/stats/ results_J-76.FINAL.hg19.dedup.RG/Stats_out 0 0 0 results_J-76.FINAL.hg19.dedup.RG/acgt_ratio.csv 0 0
+2017-04-01 03:51:43,292	ERROR	mapdamage.rscript: The Bayesian statistics program failed to finish

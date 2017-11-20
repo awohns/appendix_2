@@ -1,0 +1,18 @@
+# table produced by mapDamage version 2.0.3
+# using mapped file /ebc_data/cls83/Johns/JDS3_02/J-83/bam/J-83.truncated.aln.chrM_filtered_sort_umr_dedup_readgroups.bam and /ebc_data/cls83/indexes/chrM.fasta as reference file
+# Std: strand of reads
+Std	Length	Occurences 
++	65	1
++	71	1
++	73	7
++	74	65
++	75	228
++	76	590
++	77	7
+-	72	3
+-	73	13
+-	74	35
+-	75	153
+-	76	754
+-	77	12
+-	78	4
